@@ -18,7 +18,7 @@ int main (){
     }
 
     moy = som/cpt;
-
+    printf("la moyenne des nombres paire est :%f",moy);
 
 return 0 ;
 }
